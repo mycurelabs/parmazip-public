@@ -1,2 +1,2 @@
 # parmazip-public
-Public release repository for parmazip
+Public release repository for the Parmazip app
